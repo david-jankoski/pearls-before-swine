@@ -1,10 +1,12 @@
----
-title: "README.md"
-author: "David Jankoski"
-date: "19 september 2017"
-output: html_document
----
 
-- this repo has some short fun fun functions that when called show a random Pearls Before Swine comic.
+- this repo has only 1 short but fun fun function that when called show a random Pearls Before Swine comic.  
 
-- to do: website actually has more comics, maybe add that as fun arg.
+### ideas  
+
+- website actually has more comics, maybe add that as fun arg.
+
+- rename fun to something short and more useful e.g. every now and then when working and starting to get tired - type in `comic()` to get some random comic in viewer pane.  
+
+- check out that xkcd pkg for the tests
+
+- maybe make a pkg as well (check before if smth similar exists?)
